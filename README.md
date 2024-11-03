@@ -4,7 +4,7 @@
 
 ### Немного обо мне
 
-- 🌱 В настоящее время я изучаю **Next.js** и **TypeScript**, чтобы улучшить свои навыки в веб-разработке.
+- 🌱 В настоящее время я изучаю **Next.js** и **Zustand**, чтобы улучшить свои навыки в веб-разработке.
 - 👨‍💻 У меня есть опыт в **JavaScript**, **React**, **Vue.js**, **SCSS**.
 - 🎯 Мои цели на ближайшее время: реализовать собственный проект с использованием Next.js и TypeScript.
 - 📫 Как со мной связаться:
@@ -27,12 +27,12 @@
 
 ### 📊 Моя статистика
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliskhannn&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliskhannn&show_icons=true&theme=radical&hide=prs,contribs)
 
 ### 📫 Как со мной связаться
 
-- 📧 Email: [aliskhankhutiev.dev@gmail.com](mailto:aliskhankhutiev.dev@gmail.com)
 - 📱 Телефон: +7 938 014-72-43
+- 📧 Email: [aliskhankhutiev.dev@gmail.com](mailto:aliskhankhutiev.dev@gmail.com)
 - 💬 Telegram: [@aliskhannn](https://t.me/aliskhannn)
 
 ---
