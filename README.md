@@ -8,8 +8,8 @@
 - 👨‍💻 У меня есть опыт в **JavaScript**, **React**, **Vue.js**, **SCSS**.
 - 🎯 Мои цели на ближайшее время: реализовать собственный проект с использованием Next.js и TypeScript.
 - 📫 Как со мной связаться:
-  - 📧 Email: [aliskhankhutiev.dev@gmail.com](mailto:aliskhankhutiev.dev@gmail.com)
   - 📱 Телефон: +7 938 014-72-43
+  - 📧 Email: [aliskhankhutiev.dev@gmail.com](mailto:aliskhankhutiev.dev@gmail.com)
   - 💬 Telegram: [@aliskhannn](https://t.me/aliskhannn)
 
 ### 🛠 Мои навыки и инструменты
