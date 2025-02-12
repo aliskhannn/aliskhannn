@@ -5,7 +5,7 @@ Golang-разработчик
 **Контакты:**
 
 - Телефон: +7 (963) 399-28-06
-- Telegram: https://t.me/aliskhandev (предпочтительный способ связи)
+- Telegram: https://t.me/aliskhannn (предпочтительный способ связи)
 - Email: aliskhankhutiev.dev@gmail.com
 - GitHub: https://github.com/aliskhannn
 
