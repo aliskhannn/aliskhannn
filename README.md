@@ -14,7 +14,7 @@ Golang-разработчик
 
 ## **Навыки и технологии**
 
-Golang, JavaScript, Git, Linux
+Golang, JavaScript, Git, Linux,
 
 ## Опыт работы
 
