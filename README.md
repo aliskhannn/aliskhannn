@@ -13,7 +13,7 @@ Backend developer, специализируюсь на проектирован�
 
 * [pvz-service](https://github.com/aliskhannn/pvz-service) — сервис управления пунктами выдачи заказов (Go, PostgreSQL, Docker, Clean Architecture)
 * [goals-api](https://github.com/aliskhannn/goals-api) — API для управления пользовательскими целями (JWT, CRUD, PostgreSQL)
-* [go-todo-cli](https://github.com/aliskhannn/go-todo-cli) — CLI-приложение для списка задач (Go, SQLite)
+* [go-todo-cli](https://github.com/aliskhannn/go-todo-list) — CLI-приложение для списка задач (Go, SQLite)
 
 ## Контакты
 
